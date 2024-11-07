@@ -1,2 +1,2 @@
 # classwork-fomin
-classwork
+bad
